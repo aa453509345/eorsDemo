@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.taobao.android:weex_analyzer-0.1.0.5">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/weex_analyzer-0.1.0.5.aar/5e374103df41d3fdb0ea8a1a5f97d4d8/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/weex_analyzer-0.1.0.5.aar/5e374103df41d3fdb0ea8a1a5f97d4d8/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/weex_analyzer-0.1.0.5.aar/5e374103df41d3fdb0ea8a1a5f97d4d8/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
